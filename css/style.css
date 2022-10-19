@@ -16,23 +16,27 @@ nav{
     margin-left: auto;
     margin-right: auto;
 }
-.nav h1{
+.h1{
     width: 50%;
     float: left;
     padding-left: 100px;
     font-size: 25px;
 }
-.nav a{
+.al1{
     color: black;
     text-decoration: none;
 }
-.nav ul{
+.a{
+    color: black;
+    text-decoration: none;
+}
+.ul{
     width: 50%;
     float: right;
     text-align: right;
     padding-right: 100px;
 }
-.nav li{
+.li{
     display: inline-block;
     font-weight: bold;
     font-size: 12px;
@@ -174,8 +178,8 @@ hr{
 .columns{
     float: left;
     padding-inline: 0px;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 #row1 .columns .img1{   
     margin-left: 100px;
@@ -334,8 +338,8 @@ hr{
 .columns1 {
     float: left;
     padding-inline: 0px;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 #row2 .columns1 .img5{   
     margin-left: 100px;
@@ -371,5 +375,114 @@ hr{
     height: 270px;
     width: 270px;
 }
-
-
+.columns1 .h37{
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 90%;
+    float: inline-end;
+    padding-inline: 0px;
+    padding-left: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.columns1 .h38{
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 90%;
+    float: inline-end;
+    padding-inline: 0px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.columns1 .h39{
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 90%;
+    float: inline-end;
+    padding-inline: 0px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.columns1 .h310{
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 90%;
+    float: inline-end;
+    padding-inline: 0px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.columns1 .p7{
+    float: inline-end;
+    padding-inline: 0px;
+    padding-left: 100px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.columns1 .p8{
+    float: inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.columns1 .p9{
+    float: inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.columns1 .p10{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.columns1 .p7-5{
+    float: inline-end;
+    padding-inline: 0px;
+    padding-left: 100px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.columns1 .p8-6{
+    float: inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.columns1 .p9-7{
+    float: inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.columns1 .p10-8{
+    float: inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
