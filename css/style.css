@@ -39,3 +39,12 @@ nav{
 .nav a:hover{
     color: aqua;
 }
+.Background1{
+    clear: both;
+    background-image: url(../images/atf-image.jpg);
+    background-size: 100%;
+    background-position: center;
+    height: 500px;
+    width: 1300px;
+    background-repeat: no-repeat;
+}
