@@ -42,10 +42,9 @@ nav{
     font-weight: bold;
     font-size: 12px;
 }
-.nav a:hover{
-    color: aqua;
-}
-.Background1{
+
+
+.Backgroundimage1{
     clear: both;
     background-image: url(../images/atf-image.jpg);
     background-size: 100%;
@@ -64,7 +63,7 @@ nav{
     text-transform: uppercase;
     opacity: 70%;
 }
-.Background1 span{
+.Backgroundimage1 span{
     position: relative;
     text-transform: uppercase;
     padding-left: 100px;
@@ -91,24 +90,24 @@ nav{
     margin-left: 100px;
 }
 /*Merchandise Part*/
-.Background2{
+.Backgroundimage2{
     margin-top: 50px;
     margin-left: 100px;
     float: left;
     background-image: url(../images/merchandise1.jpg);
     background-size: 100%;
     height: 250px;
-    width: 635px;
+    width: 600px;
     background-repeat: no-repeat;
 }
-.Background3{
+.Backgroundimage3{
     margin-top: 50px;
     margin-right: 100px;
     float: right;
     background-image: url(../images/merchandise2.jpg);
     background-size: 100%;
     height: 250px;
-    width: 635px;
+    width: 600px;
     background-repeat: no-repeat;
 }
 .h3{
