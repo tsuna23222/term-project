@@ -23,6 +23,7 @@ nav{
     font-size: 25px;
 }
 .al1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: black;
     text-decoration: none;
 }
@@ -54,6 +55,7 @@ nav{
     background-repeat: no-repeat;
 }
 .h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left: 100px;
     font-size: 50px;
     position: relative;
@@ -147,6 +149,7 @@ nav{
 }
 .hd2{
     padding-top: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .p2{
     text-align: center;
@@ -752,7 +755,7 @@ hr{
 .reserform{
     background-color: rgb(248, 246, 246);
     height: 330px;
-    width: 540px;
+    width: 550px;
     float: left;
     background-size: cover;
     position: relative;
@@ -762,7 +765,7 @@ hr{
 }
 .formers2{
     background-color: rgb(248, 246, 246);
-    height: 450px;
+    height: 490px;
     width: 540px;
     float: left;
     background-size: cover;
@@ -780,7 +783,7 @@ hr{
     margin-right: 20px;
     top: 20px;
     padding: 5px;
-    padding-right: 320px;
+    padding-right: 350px;
     position: relative;
 }
 .labell2{
@@ -793,7 +796,7 @@ hr{
     margin-right: 20px;
     top: 25px;
     padding: 5px;
-    padding-right: 320px;
+    padding-right: 350px;
     position: relative;
 }
 .labell3{
@@ -806,7 +809,7 @@ hr{
     margin-right: 20px;
     top: 30px;
     padding: 5px;
-    padding-right: 320px;
+    padding-right: 350px;
     position: relative;
 }
 .labell4{
@@ -819,7 +822,7 @@ hr{
     margin-right: 20px;
     top: 35px;
     background-color: rgb(228, 228, 228);
-    padding-right: 415px;
+    padding-right: 405px;
     position: relative;
 }
 .labell5{
@@ -828,15 +831,14 @@ hr{
     position: relative;
 }
 .inputt5{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
     top: 40px;
     padding: 5px;
-    padding-right: 377px;
+    padding-right: 405px;
     position: relative;
 }
 .labell6{
-    margin-left: 20px;
     top: 45px;
     position: relative;
 }
@@ -844,17 +846,206 @@ hr{
     margin-left: 20px;
     top: 45px;
     padding: 5px;
-    padding-right: 450px;
+    padding-right: 440px;
     position: relative;
 }
 .labell7{
-    margin-left: 20px;
-    top: 50px;
+    top: 45px;
     position: relative;
 }
 .inputt7{
     top: 45px;
     padding: 5px;
+    padding-right: 310px;
+    position: relative;
+}
+/* FORMER2 AREA */
+.legends1{
+    margin-left: 20px;
+    top: 20px;
+    position: relative;
+}
+.legends2{
+    margin-right: 20px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.formers3 h3{
+    padding-top: 30px;
+    text-align: center;
+    font-size: large;
+}
+.formers3 p{
+    text-align: center;
+    font-size: small;
+}
+.labell8{
+    margin-left: 20px;
+    position: relative;
+}
+.inputt8{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
     padding-right: 320px;
     position: relative;
+}
+.labell9{
+    margin-left: 20px;
+    position: relative;
+    top: 5px;
+}
+.inputt9{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 5px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+.labell10{
+    top: 10px;
+    position: relative;
+}
+.inputt10{
+    margin-left: 20px;
+    top: 10px;
+    padding: 5px;
+    position: relative;
+}
+.button{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 15px;
+    padding: 5px;
+    position: relative;
+    background-color: green;
+}
+.button a{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: auto;
+    padding-right: 220px;
+    padding-left: 220px;
+}
+/* FOOOOTERRR PART*/
+.foooter1{
+    clear: both;
+    position: relative;
+    background-image: url(../images/footer-img.jpg);
+    background-size: cover;
+    height: 210px;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.opawnot{
+    font-weight: none;
+}
+.footer1:nth-child(1){
+    position: relative;
+    margin-left: 100px;
+    padding-top: 30px;
+    float: left;
+    color: white;
+}
+.foooter2:nth-child(2){
+    position: relative;
+    margin-left: 50px;
+    padding-top: 30px;
+    float: left;
+    color: white;
+}
+.foooter3:nth-child(3){
+    position: relative;
+    margin-left: 50px;
+    padding-top: 30px;
+    float: left;
+}
+.foooter4:nth-child(4){
+    position: relative;
+    margin-left: 50px;
+    margin-right: 100px;
+    padding-top: 30px;
+    float: left;
+}
+.foooter1 h3{
+    text-transform: uppercase;
+}
+.foooter2 p{
+    color: rgb(223, 125, 35);
+    opacity: 70%;
+}
+.foooter3{
+    color: white;
+}
+#ftp1{
+    padding-top: 10px;
+    color: rgb(223, 126, 35);
+    opacity: 70%;
+}
+.search1{
+    opacity: 70%;
+}
+#ftp2{
+    padding-bottom: 10px;
+}
+.foooter3 input{
+    padding: 10px;
+}
+.foooter3 #inputtfoooter{
+    background-color: rgb(223, 125, 35);
+}
+.foooter4 {
+    color: white;
+}
+.foooter4 h3{
+    text-transform: uppercase;
+    color: white;
+}
+.foooter4 h4{
+    color: rgb(223, 125, 35);
+    text-transform: uppercase;
+    padding-top: 10px;
+    opacity: 70%;
+}
+.footer2{
+    overflow: auto;
+    width: 100%;
+    background-color: black;
+    padding: 50px;
+    color: white;
+}
+.footer2 h2{
+    float: left;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.footer2 a{
+    color: white;
+}
+.footer2 ul{
+    width: 50%;
+    float: left;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 100px;
+    color: white;
+}
+.footer2 li{
+    display: inline-block;
+    font-size: 12px;
+    color: white;
+}
+.footer2 p{
+    width: 50%;
+    float: right;
+    margin-bottom: 100px;
+    padding-right: 100px;
+    color: white;
+}
+.footer2 span{
+    margin-top: 10px;
+    float: left;
 }
