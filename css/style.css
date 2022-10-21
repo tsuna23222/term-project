@@ -96,8 +96,8 @@ nav{
     float: left;
     background-image: url(../images/merchandise1.jpg);
     background-size: 100%;
-    height: 250px;
-    width: 600px;
+    height: 350px;
+    width: 635px;
     background-repeat: no-repeat;
 }
 .Backgroundimage3{
@@ -106,8 +106,8 @@ nav{
     float: right;
     background-image: url(../images/merchandise2.jpg);
     background-size: 100%;
-    height: 250px;
-    width: 600px;
+    height: 350px;
+    width: 635px;
     background-repeat: no-repeat;
 }
 .h3{
@@ -153,11 +153,12 @@ nav{
 .p2{
     text-align: center;
     font-style: italic;
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom: 0;
     margin: 0;
     color: rgb(185, 90, 0);
     opacity: 70%;
+    font-family: 'Times New Roman', Times, serif;
 }
 .h2-2{
     text-align: center;
@@ -167,12 +168,13 @@ nav{
     margin-left: 400px;
     margin-right: 400px;
     padding-bottom: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 hr{
     text-align: center;
     margin-top: 15px;
-    margin-left: 650px;
-    margin-right: 660px;
+    margin-left: 680px;
+    margin-right: 680px;
     margin-bottom: 20px;
     border-top: solid rgb(185, 90, 0);
     opacity: 70%;
@@ -190,7 +192,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 305px;
+    width: 309px;
 }
 #row1 .columns .img2{   
     padding-top: 30px;
@@ -198,7 +200,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 305px;
+    width: 309px;
 }
 #row1 .columns .img3{   
     padding-top: 30px;
@@ -206,7 +208,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 305px;
+    width: 309px;
 }
 #row1 .columns .img4{   
     margin-right: 100px;
@@ -215,7 +217,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 324px;
+    width: 309px;
 }
 .columns .h33{
     padding-top: 0;
@@ -349,24 +351,24 @@ hr{
     padding-bottom: 0;
     margin-bottom: 0;
     box-sizing: border-box;
-    height: 270px;
-    width: 305px;
+    height: 300px;
+    width: 309px;
 }
 #row2 .columns1 .img6{   
     padding-top: 30px;
     padding-bottom: 0;
     margin-bottom: 0;
     box-sizing: border-box;
-    height: 270px;
-    width: 305px;
+    height: 300px;
+    width: 309px;
 }
 #row2 .columns1 .img7{   
     padding-top: 30px;
     padding-bottom: 0;
     margin-bottom: 0;
     box-sizing: border-box;
-    height: 270px;
-    width: 305px;
+    height: 300px;
+    width: 309px;
 }
 #row2 .columns1 .img8{   
     margin-right: 100px;
@@ -374,8 +376,8 @@ hr{
     padding-bottom: 0;
     margin-bottom: 0;
     box-sizing: border-box;
-    height: 270px;
-    width: 323px;
+    height: 300px;
+    width: 309px;
 }
 .columns1 .h37{
     padding-top: 0;
@@ -495,7 +497,7 @@ hr{
     margin-right: 100px;
     float: left;
     background-size: 100%;
-    width: 1267px;
+    width: 1270px;
     padding-bottom: 150px;
     background-repeat: no-repeat;
 }
@@ -522,10 +524,11 @@ hr{
     color: black;
     text-transform: capitalize;
     padding: 10px;
-    margin-left: 595px;
-    margin-right: 450px;
+    margin-left: 590px;
+    margin-right: 590px;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 /*MERCHANDISE PART*/
 .Merchantsales p{
@@ -552,8 +555,8 @@ hr{
 .hr2{
     margin-top: 15px;
     text-align: center;
-    margin-left: 670px;
-    margin-right: 680px;
+    margin-left: 615px;
+    margin-right: 615px;
     border-top: solid rgb(185, 90, 0);
 }
 /* AREA OF PRODUCTS PART */
@@ -570,7 +573,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 305px;
+    width: 314px;
 }
 #row3 .columns2 .img10{
     padding-top: 30px;
@@ -578,7 +581,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 305px;
+    width: 314px;
 }
 #row3 .columns2 .img11{
     padding-top: 30px;
@@ -586,7 +589,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 305px;
+    width: 314px;
 }
 #row3 .columns2 .img12{
     margin-right: 100px;
@@ -595,7 +598,7 @@ hr{
     margin-bottom: 0;
     box-sizing: border-box;
     height: 300px;
-    width: 335px;
+    width: 314px;
 }
 .columns2 .h311{
     padding-top: 0;
@@ -754,7 +757,7 @@ hr{
 .reserform{
     background-color: rgb(248, 246, 246);
     height: 330px;
-    width: 625px;
+    width: 630px;
     float: left;
     background-size: cover;
     position: relative;
@@ -782,7 +785,7 @@ hr{
     margin-right: 20px;
     top: 20px;
     padding: 5px;
-    padding-right: 350px;
+    padding-right: 420px;
     position: relative;
 }
 .labell2{
@@ -795,7 +798,7 @@ hr{
     margin-right: 20px;
     top: 25px;
     padding: 5px;
-    padding-right: 350px;
+    padding-right: 420px;
     position: relative;
 }
 .labell3{
@@ -808,7 +811,7 @@ hr{
     margin-right: 20px;
     top: 30px;
     padding: 5px;
-    padding-right: 350px;
+    padding-right: 420px;
     position: relative;
 }
 .labell4{
@@ -821,7 +824,7 @@ hr{
     margin-right: 20px;
     top: 35px;
     background-color: rgb(228, 228, 228);
-    padding-right: 405px;
+    padding-right: 475px;
     position: relative;
 }
 .labell5{
@@ -834,7 +837,7 @@ hr{
     margin-right: 15px;
     top: 40px;
     padding: 5px;
-    padding-right: 405px;
+    padding-right: 475px;
     position: relative;
 }
 .labell6{
@@ -845,7 +848,7 @@ hr{
     margin-left: 20px;
     top: 45px;
     padding: 5px;
-    padding-right: 440px;
+    padding-right: 475px;
     position: relative;
 }
 .labell7{
@@ -855,7 +858,7 @@ hr{
 .inputt7{
     top: 45px;
     padding: 5px;
-    padding-right: 310px;
+    padding-right: 475px;
     position: relative;
 }
 /* FORMER2 AREA */
@@ -886,7 +889,7 @@ hr{
     margin-left: 20px;
     margin-right: 20px;
     padding: 5px;
-    padding-right: 320px;
+    padding-right: 420px;
     position: relative;
 }
 .labell9{
@@ -899,7 +902,7 @@ hr{
     margin-right: 20px;
     top: 5px;
     padding: 5px;
-    padding-right: 320px;
+    padding-right: 420px;
     position: relative;
 }
 .labell10{
@@ -926,8 +929,8 @@ hr{
     text-decoration: none;
     text-transform: uppercase;
     margin: auto;
-    padding-right: 220px;
-    padding-left: 220px;
+    padding-right: 270px;
+    padding-left: 270px;
 }
 /* FOOOOTERRR PART*/
 .foooter1{
